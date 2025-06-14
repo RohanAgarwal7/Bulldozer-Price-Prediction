@@ -24,3 +24,5 @@ Dataset: Sourced from the Kaggle Bluebook for Bulldozers competition, which incl
 
 ## Outcome
 The project successfully demonstrates an end-to-end workflow for predicting bulldozer prices using machine learning, with a focus on practical steps like handling time-series data, hyperparameter tuning, and model validation.
+
+This project was made in conjuntion with zero-to-mastery AI and machine learning data science course
