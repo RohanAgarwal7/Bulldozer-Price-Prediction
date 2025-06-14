@@ -9,9 +9,9 @@ Dataset: Sourced from the Kaggle Bluebook for Bulldozers competition, which incl
 - Test.csv: Test data from May 2012 to November 2012.
 
 ## Method
-1. Exploratory Data Analysis (EDA): Assessed missing data, outliers, and data distribution. Parsed and enriched date features to leverage time-based patterns. Visualized relationships between key features and sale prices.
+1. Exploratory Data Analysis (EDA): Assessed missing data, outliers, and data distribution. Parsed and enriched date features to leverage time-based patterns. Visualised relationships between key features and sale prices.
 2. Data Preprocessing: Cleaned and sorted time-series data. Feature engineering using date components.
-3. Model Building: Implemented a baseline using the RandomForestRegressor. Optimized using hyperparameter tuning to minimize prediction error.
+3. Model Building: Implemented a baseline using the RandomForestRegressor. Optimised using hyperparameter tuning to minimise prediction error.
 4. Evaluation: Used the Root Mean Squared Log Error (RMSLE) as the primary evaluation metric. Assessed model performance using cross-validation.
 
 ## Tools
